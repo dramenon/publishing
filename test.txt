@@ -1,1 +1,0 @@
-This should create a text box in the open document with black text, and the text should be aligned to the left as specified.
